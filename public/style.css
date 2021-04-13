@@ -22,3 +22,16 @@ h1{
 h2{
     text-align: center;
 }
+#game-board{
+    margin-left: 25%;
+    padding: 4%;
+}
+#tip, #question{
+    margin-bottom: 2%;
+}
+button{
+    height: 50px;
+    padding: 2%;
+    font-family: 'Zen Dots', cursive;
+    background-color: rgba(54, 140, 253, 0.904);
+}
